@@ -23,4 +23,4 @@ Este proyecto es una aplicación web creada para la materia **Desarrollo de Soft
 
 El proyecto está desplegado en un hosting estático y se puede acceder desde la siguiente URL:
 
-[Shopping List](shopping-list-six-kappa.vercel.app)
+[Shopping List](https://shopping-list-azure-xi.vercel.app/)
